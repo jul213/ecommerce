@@ -9,3 +9,6 @@ diferentes programas enfocadas en diferentes tareas
 - uso de **python**
 
 - uso de bases de datos con ayuda del **ORM** de python
+
+***
+![imagen de django](https://elpythonista.com/wp-content/uploads/2020/10/Django.jpg)
